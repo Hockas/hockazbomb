@@ -105,4 +105,3 @@ class spymer:
 			print(('{} круг пройден.').format(iteration))
 
 spammer = spymer()
-spammer.main()
